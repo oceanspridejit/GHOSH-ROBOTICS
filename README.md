@@ -61,3 +61,5 @@ The framework bridges **vibrational energy dynamics** and **information-system b
 **Citation (Full):**  
 Ghosh, P. (2025). *Brahma Framework and Vibrational Impulse Theory.* Zenodo.  
 [https://doi.org/10.5281/zenodo.17454740](https://doi.org/10.5281/zenodo.17454740)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17454740.svg)](https://doi.org/10.5281/zenodo.17454740)
+
