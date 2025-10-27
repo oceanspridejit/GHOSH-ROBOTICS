@@ -18,3 +18,5 @@ Ghosh, P. (2025). *Brahma Framework and Vibrational Impulse Theory.* Independent
 ## License
 © 2025 Prasenjit Ghosh. All rights reserved.  
 Permission is granted for academic citation and non-commercial distribution.
+## DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17454740.svg)](https://doi.org/10.5281/zenodo.17454740)
