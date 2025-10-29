@@ -74,9 +74,7 @@ This research introduces the **Resonant-Impulse Constant (Δτ ≈ 0.29 ns)**—
 **Abstract:**  
 This paper extends the **Brahma Universal Resonance Framework** to a planetary scale, defining *World Peace* as a dynamic equilibrium of all coherent layers of existence — physical, informational, cognitive, and ethical — under the conservation principle  
 
-\[
-\frac{d}{dt}(\rho v^2 \Delta CoG) = 0
-\]
+![equation](https://latex.codecogs.com/svg.image?\frac{d}{dt}(\rho%20v^2%20\Delta%20CoG)=0)
 
 **Core constant:** \( K_{peace} \) — the invariant scalar of universal harmony.  
 It unites micro-stability and macro-coherence as one continuum: *Peace through Resonant Equilibrium.*
