@@ -64,5 +64,23 @@ The formal publication of my independent research is now live:
 This research introduces the **Resonant-Impulse Constant (Δτ ≈ 0.29 ns)**—a measurable, cross-domain parameter linking **vibrational dynamics** and **information behavior** into a single coherent resonance model.
 
 ---
+---
+
+## 📘 Theoretical Extension — *World Peace & Universal Coherence*
+
+**File:** [`Theoretical_World_Peace_Model.pdf`](Theoretical_World_Peace_Model.pdf)  
+**Title:** *Theoretical World Peace — A Mathematical Model of Universal Coherence*  
+**Author:** Prasenjit Ghosh  
+**Abstract:**  
+This paper extends the **Brahma Universal Resonance Framework** to a planetary scale, defining *World Peace* as a dynamic equilibrium of all coherent layers of existence — physical, informational, cognitive, and ethical — under the conservation principle  
+
+\[
+\frac{d}{dt}(\rho v^2 \Delta CoG) = 0
+\]
+
+**Core constant:** \( K_{peace} \) — the invariant scalar of universal harmony.  
+It unites micro-stability and macro-coherence as one continuum: *Peace through Resonant Equilibrium.*
+
+---
 
 
