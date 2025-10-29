@@ -109,9 +109,7 @@ Commercial or derivative use requires written authorization.
 
 The **Theoretical World Peace Model** redefines peace not as a moral abstraction but as a **quantifiable state of systemic equilibrium**, grounded in the same resonance law that governs energy and motion:
 
-\[
-\frac{d}{dt}(\rho v^2 \Delta CoG) = 0
-\]
+![equation](https://latex.codecogs.com/svg.image?\frac{d}{dt}(\rho%20v^2%20\Delta%20CoG)=0)
 
 Peace = balance sustained by resonance, measurable in principle, universal in reach.
 
