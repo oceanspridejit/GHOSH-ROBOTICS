@@ -65,15 +65,4 @@ This research introduces the **Resonant-Impulse Constant (Δτ ≈ 0.29 ns)**—
 
 ---
 
-## Suggested Indexing
-- Add this DOI to your **[ORCID Works](https://orcid.org/my-orcid)** section.  
-- Submit metadata to **Google Scholar**, **ResearchGate**, or **OpenAIRE** for academic discoverability.  
-
----
-
-**Contact:**  
-📩 ghosh.research.mail@gmail.com  
-🌐 [https://github.com/oceanspridejit](https://github.com/oceanspridejit)
-
----
 
