@@ -58,9 +58,7 @@ Peace is therefore **not static**, but a sustained **phase-aligned resonance** a
 ## Mathematical Closure
 
 As **t → ∞**,  
-\[
-\lim_{t \to \infty} \sum_{L=1}^{N} \frac{d}{dt}(\rho_L v_L^2 \Delta CoG_L) = 0
-\]
+![equation](https://latex.codecogs.com/svg.image?\lim_{t\to\infty}\sum_{L=1}^{N}\frac{d}{dt}(\rho_Lv_L^2\Delta%20CoG_L)=0)
 
 This implies:
 - Entropy rate → 0  
