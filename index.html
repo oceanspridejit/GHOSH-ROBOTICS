@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>SpandanOS — Global Resonance Technologies</title>
+  <meta name="description" content="SpandanOS — a resonance-driven operating ecosystem that reads human intention, emotion and biomechanics to create emotion-aware, intent-first machines and interfaces." />
+  <style>
+    :root{
+      --bg:#0f1724; --card:#0b1320; --accent:#00c2a8; --muted:#9aa6b2; --glass: rgba(255,255,255,0.03);
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    body{margin:0;background:linear-gradient(180deg,#071226,#091428);color:#e6eef6;line-height:1.45}
+    .wrap{max-width:1100px;margin:48px auto;padding:28px;}
+    header{display:flex;align-items:center;justify-content:space-between;gap:20px}
+    .brand{display:flex;align-items:center;gap:14px}
+    .logo{width:56px;height:56px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#0077ff);display:flex;align-items:center;justify-content:center;font-weight:700;color:#042025}
+    h1{margin:0;font-size:28px}
+    nav a{color:var(--muted);text-decoration:none;margin-left:18px;font-weight:600}
+    .hero{display:grid;grid-template-columns:1fr 420px;gap:32px;margin-top:36px;align-items:center}
+    .card{background:var(--card);padding:28px;border-radius:12px;box-shadow:0 6px 30px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.02)}
+    .eyebrow{color:var(--accent);font-weight:700;font-size:13px;letter-spacing:0.06em;margin-bottom:12px}
+    .lead{font-size:20px;color:#dff6f0;margin:10px 0 18px}
+    .cta{display:flex;gap:12px}
+    .btn{padding:12px 18px;border-radius:10px;font-weight:700;border:0;cursor:pointer}
+    .btn-primary{background:var(--accent);color:#042025}
+    .btn-ghost{background:transparent;border:1px solid rgba(255,255,255,0.08);color:var(--muted)}
+    .features{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:22px}
+    .feature{background:var(--glass);padding:16px;border-radius:10px}
+    .muted{color:var(--muted);font-size:14px}
+    .right-hero{display:flex;flex-direction:column;gap:14px}
+    .mock{height:260px;border-radius:10px;background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));display:flex;flex-direction:column;padding:18px;justify-content:space-between}
+    .list{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:18px}
+    footer{margin-top:48px;padding-top:28px;border-top:1px solid rgba(255,255,255,0.03);display:flex;justify-content:space-between;align-items:center;color:var(--muted)}
+    .usecases{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:20px}
+    @media(max-width:980px){
+      .hero{grid-template-columns:1fr;padding-bottom:20px}
+      .features{grid-template-columns:repeat(2,1fr)}
+      .right-hero{order:2}
+      header{flex-direction:column;align-items:flex-start;gap:12px}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="logo">S</div>
+        <div>
+          <h1>SpandanOS</h1>
+          <div class="muted">Global Resonance Technologies</div>
+        </div>
+      </div>
+      <nav>
+        <a href="#product">Product</a>
+        <a href="#use-cases">Use Cases</a>
+        <a href="#team">Team</a>
+        <a href="#contact">Contact</a>
+        <!-- Whitepaper / report (local file path) -->
+        <a href="/mnt/data/IPflair_NoveltySearchReport_2511401-NS-Shri Prasenjit Ghosh - V2.docx" download>Novelty Report</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="card">
+        <div class="eyebrow">Resonance-First Interfaces</div>
+        <h2 style="font-size:32px;margin-bottom:6px">Machines that listen to intention before action.</h2>
+        <p class="lead">SpandanOS interprets micro-vibrations, breath patterns and CoM/CoG dynamics to produce emotion-aware, intent-first interactions for wearables, robots, vehicles and systems at scale.</p>
+
+        <div class="cta">
+          <button class="btn btn-primary">Request Demo</button>
+          <button class="btn btn-ghost" onclick="location.href='#use-cases'">Explore Use Cases</button>
+        </div>
+
+        <div style="margin-top:20px" class="muted">
+          Applications: Neurotech • Robotics • Healthcare • Automotive • Defense • Smart Cities
+        </div>
+
+        <div class="features" style="margin-top:22px">
+          <div class="feature">
+            <strong>Pre-Intent Detection</strong>
+            <div class="muted">Detects intention in milliseconds before action using vibrational precursors.</div>
+          </div>
+          <div class="feature">
+            <strong>Batteryless Sensing</strong>
+            <div class="muted">Piezoelectric harvesters power sensors for long-term lightweight wearables.</div>
+          </div>
+          <div class="feature">
+            <strong>Closed-Loop Training</strong>
+            <div class="muted">Micro-impulse feedback corrects posture and stabilizes emotional spikes.</div>
+          </div>
+        </div>
+      </div>
+
+      <aside class="right-hero">
+        <div class="card mock">
+          <div>
+            <strong>SpandCore Mark-X</strong>
+            <div class="muted">Multi-axis resonance sensor • CoM/CoG mapping • energy harvesting</div>
+          </div>
+          <div style="display:flex;gap:8px;">
+            <div style="background:rgba(0,0,0,0.12);padding:8px;border-radius:8px;flex:1">
+              <div style="font-size:12px;color:var(--muted)">Live PnL</div>
+              <div style="font-weight:800">—</div>
+            </div>
+            <div style="background:rgba(0,0,0,0.12);padding:8px;border-radius:8px;flex:1">
+              <div style="font-size:12px;color:var(--muted)">RDI</div>
+              <div style="font-weight:800">0.08</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <strong>Developer Tools</strong>
+          <div class="muted" style="margin-top:8px">SDK, REST API, SpandanOS Mobile & Robot SDK for rapid integration.</div>
+          <div class="list">
+            <div class="muted">• Emotional API</div>
+            <div class="muted">• CoM Vector SDK</div>
+            <div class="muted">• MicroFeedback Module</div>
+            <div class="muted">• Glyph Encoder</div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="use-cases" style="margin-top:28px">
+      <div class="card">
+        <div class="eyebrow">Use Cases</div>
+        <h3 style="margin:6px 0 10px">Where SpandanOS is deployed today</h3>
+        <div class="usecases">
+          <div>
+            <strong>Healthcare</strong>
+            <div class="muted">Real-time emotional triage, rehab feedback, ICU workload balancing.</div>
+          </div>
+          <div>
+            <strong>Robotics</strong>
+            <div class="muted">Emotion-aware assistants, co-bots that anticipate human intent.</div>
+          </div>
+          <div>
+            <strong>Automotive</strong>
+            <div class="muted">Driver microsleep & stress prevention, passenger comfort adaptation.</div>
+          </div>
+          <div>
+            <strong>Defense</strong>
+            <div class="muted">Soldier-state mapping, low-latency silent command channels.</div>
+          </div>
+        </div>
+
+        <div style="margin-top:18px" class="muted">
+          Full Use-Case Matrix (214+ applications) — available in the technical dossier (download above).
+        </div>
+      </div>
+    </section>
+
+    <section id="product" style="margin-top:22px">
+      <div class="card">
+        <div class="eyebrow">Products & Integrations</div>
+        <h3 style="margin:6px 0 10px">An ecosystem, not a single product</h3>
+
+        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px">
+          <div class="feature">
+            <strong>SpandCore Wearable</strong>
+            <div class="muted">Lightweight patch for continuous resonance capture and energy harvesting.</div>
+          </div>
+          <div class="feature">
+            <strong>SpandanOS Kernel</strong>
+            <div class="muted">Resonance stack for device manufacturers, robots and vehicle systems.</div>
+          </div>
+          <div class="feature">
+            <strong>SpandCloud</strong>
+            <div class="muted">Secure analytics, emotional heatmaps and enterprise dashboards.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="team" style="margin-top:22px">
+      <div class="card">
+        <div class="eyebrow">Team & Partners</div>
+        <h3 style="margin:6px 0 10px">Founders, advisors, and early partners</h3>
+        <div class="muted">Founding team comprises experts in biomechanics, signal processing, robotics and clinical neurotherapy. Strategic partnerships with labs and selected enterprise pilots.</div>
+      </div>
+    </section>
+
+    <footer>
+      <div>
+        <strong>SpandanOS</strong> — Global Resonance Technologies
+        <div class="muted" style="font-size:13px;margin-top:6px">© 2025 SpandanOS. All rights reserved. Privacy • Terms</div>
+      </div>
+      <div style="text-align:right">
+        <div class="muted">Contact</div>
+        <div>partners@spandanos.ai</div>
+        <div style="margin-top:8px">
+          <a href="/mnt/data/IPflair_NoveltySearchReport_2511401-NS-Shri Prasenjit Ghosh - V2.docx" style="color:var(--muted);text-decoration:none">Technical Dossier (DOCX)</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
